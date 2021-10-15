@@ -1,6 +1,6 @@
 # JavaScript Projects
-Collection of my JavaScript projects 
 
+Learning JS through projects
 ---
 ## Links
 
