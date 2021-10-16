@@ -9,5 +9,5 @@ Learning JS through projects
 2. [Funny Sound Board](https://github.com/Greeshma2903/Funny-Sound-Board)
 3. [Navigation Sidebar](https://github.com/Greeshma2903/Navigation-Sidebar)
 4. [Dark Theme](https://github.com/Greeshma2903/Dark-theme-toggle-button)
-
+5. [Menu](https://github.com/Greeshma2903/JavaScript-projects/tree/main/menu-setup)
 
