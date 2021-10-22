@@ -11,7 +11,6 @@ Starter Files: https://github.com/wesbos/JavaScript30
 |---|---|---|---|
 |1|Drum Kit|||
 
-___
 ## Simple DOM projects
 
 1. [Color flipper](https://github.com/Greeshma2903/Colour-flipper-game)
