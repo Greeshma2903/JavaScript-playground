@@ -1,11 +1,7 @@
-# JavaScript Projects
-
 > Learning JS through projects
 ## JAVASCRIPT 30 (30 Day Challenge)
 
-Source: https://javascript30.com/
-
-Starter Files: https://github.com/wesbos/JavaScript30
+🛠 [JavaScript30](https://javascript30.com/) | [Starter Files](https://github.com/wesbos/JavaScript30)
 
 ||Project|Demo|Source code|
 |---|---|---|---|
