@@ -5,7 +5,7 @@
 
 ||Project|Demo|Source code|
 |---|---|---|---|
-|1|Drum Kit|||
+|1|Drum Kit|[link](https://java-script-projects-psi.vercel.app/)|[link](https://github.com/Greeshma2903/JavaScript-projects/tree/main/01%20-%20JavaScript%20Drum%20Kit)|
 
 ## Simple DOM projects
 
