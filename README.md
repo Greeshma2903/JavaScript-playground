@@ -6,6 +6,7 @@
 ||Project|Demo|Source code|
 |---|---|---|---|
 |1|Drum Kit|[link](https://java-script-projects-psi.vercel.app/)|[link](https://github.com/Greeshma2903/JavaScript-projects/tree/main/01%20-%20JavaScript%20Drum%20Kit)|
+|2|JS Clock|[link](https://samay-9pge0lx51-greeshma2903.vercel.app/)
 
 ## Simple DOM projects
 
